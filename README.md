@@ -16,7 +16,7 @@ Code Collab is a real-time code collaboration platform for developers. It allows
 - [ ]  Multiple Language + Multiple Theam Support
 - [ ]  User Can boradcase message in real time to other users in realtime
 - [ ]  User can compile and run code right in browser
-- [ ]  Language Supported - C++,Java,Python
+- [ ]  Language Supported - C++,JavaScript,Python
 
 
 ------------
